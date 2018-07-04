@@ -1,2 +1,4 @@
 # hello-world
-Getting started
+Getting started. 
+
+This is to learn branches and commits.
